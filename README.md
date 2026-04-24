@@ -137,6 +137,7 @@ CareSync integrates monitoring to ensure reliability and performance.
 ---
 
 ## 📂 Repository Structure
+<img width="243" height="582" alt="image" src="https://github.com/user-attachments/assets/7a50bc4c-fff7-48ca-b894-ae4066723895" />
 
 ---
 
